@@ -1,0 +1,223 @@
+
+.img{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('orig.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     font-family: sans-serif;
+     height: 720px;
+     border-bottom: 10px solid gray;
+     
+    }
+    
+    .logo img{
+       width: 150px;;
+       }
+   .navbar{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+        margin: 30px;
+        left:80px;
+       
+       }
+       
+   #t1{
+       
+       background-color: black;
+       color: white;
+       border: 2px solid black;
+       padding: 5px;
+       margin-right: 20px;
+       border-color: white;
+       padding-left: 10px;
+       padding-right: 10px;
+       padding-top: 7px;
+       padding-bottom: 7px;
+       }
+   #t2{
+       background-color: red;
+       color: white;
+       
+       margin-bottom: 8px;
+       border: none;
+       margin-left: 10px;
+       border-radius: 3px;
+       height: 35px;
+       padding-left: 15px;
+       padding-right: 15px;
+       }
+
+   #content h1{
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 50px;
+   }
+
+   #content p{
+    color:white;
+    text-align: center;
+    margin: 5px;
+    line-height: 30px;
+    top:1px;
+    left: 450px;
+    }
+
+   form{
+    display: flex;
+    justify-content: center;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+   }
+   
+    #submit1{
+    display: flex;
+    background-color: red;
+    color: white;
+    border: none;
+    width: 180px;
+    padding:25px;
+    text-align: center;
+    font-size: 15px;
+
+    }
+ 
+   .email{
+    justify-content: center;
+     height: 50px;
+     width: 900px;
+     display: inline-flex;
+     
+   }
+   .email-input {
+    width: 500px;
+    height: 62px;
+    font-size: 18px;
+    right:150px;
+   }
+   
+   .section2{
+    color: white;
+    background-color: black;
+    
+    height: 450px;
+    border-bottom: 8px solid gray;
+    }
+   .img2{
+    position: absolute;
+     right: 220px;
+     top:760px;
+    
+    
+   }
+   .text2 h2,p{
+   font-family: sans-serif;
+   position: relative;
+   left: 180px;
+   top:70px;
+   line-height: 20px;
+   
+ }
+ .text2 p{
+    top:80px;
+    left:130px;
+ }
+    body{
+        background-color: black;
+    }
+    .section3{
+        color: white;
+        height: 450px;
+         border-bottom: 8px solid gray;
+        margin-bottom: 200px;
+     }
+    .img3{
+        display: flex;
+        margin-top: 10px;
+    }
+    .text3 h1,p{
+    display: flex;
+    font-family: sans-serif;
+    font-size: 30px;
+     position: relative;
+     right: 320px;
+     top:-170px;
+     line-height: 40px;
+     align-items: center;
+      }
+    .text3 h1{
+        display: flex;
+        left: 100px;
+        margin-top: 0px;
+        justify-content: center;
+        margin-bottom: 1px;
+        }
+    .text3 p{
+        display: flex;
+        left: 580px;
+        justify-content: space-between;
+        top: -170px;    
+    }
+    .section4{
+        color: white;
+        height: 300px;
+        border-bottom: 8px solid gray;
+        margin-bottom: 20px;
+        font-family: sans-serif;
+     }
+    .img4{
+        position: absolute;
+     right: 120px;
+     top:1800px;
+      }
+       #x4 h1{
+       font-family: sans-serif;
+       position: relative;
+       left: 180px;
+       top:-80px;
+       height: 100px;
+       }
+       #x4 p{
+        height:150px;
+
+       }
+
+       .section5{
+        color: white;
+        height: 450px;
+         border-bottom: 8px solid gray;
+        margin-bottom: 200px;
+     }
+    .img5{
+        display: flex;
+        margin-top: 10px;
+    }
+    .text5 h1,p{
+    display: flex;
+    font-family: sans-serif;
+    font-size: 30px;
+     position: relative;
+     right: 320px;
+     top:-170px;
+     line-height: 40px;
+     align-items: center;
+      }
+    .text5 h1{
+        display: flex;
+        left: 100px;
+        margin-top: 0px;
+        justify-content: center;
+        margin-bottom: 1px;
+        }
+    .text5 p{
+        display: flex;
+        left: 630px;
+        justify-content: space-between;
+        top: -170px;    
+    }
+     
+
+ 
